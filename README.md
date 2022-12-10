@@ -1,6 +1,6 @@
 
 
-<table style="border: 1px solid white;">
+<table style="border: 1px solid white; hidden: true">
 <tr>
 <td>
 
