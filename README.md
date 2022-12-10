@@ -1,4 +1,9 @@
 
+<style>
+  table, td {
+    border: 5px solid black;
+  }
+</style>
 
 <table>
 <tr>
